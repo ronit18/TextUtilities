@@ -4,4 +4,4 @@
 
 ### In this website you can copy text, convert it to uppercase, lowercase, remove some extra spaces.
 
-[Live demo](https://curious-semolina-e2fce2.netlify.app/)
+[Live demo](https://text-utilites.netlify.app/)
